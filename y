@@ -2,3 +2,8 @@
 MIDV-398,https://asf-doc.mushroomtrack.com/hls/7RrkR0hzLFs79ggG61ifHQ/1689473978/34000/34190/34190.m3u8
 SSIS-748,https://hot-box-gen.mushroomtrack.com/hls/hOGPUA5b7ZCJcUhuwW2RHw/1689474395/33000/33789/33789.m3u8
 JUFE-448,https://astin-cowing.mushroomtrack.com/hls/z4ua45qxkqPetxcMA8ZmCQ/1689474014/33000/33378/33378.m3u8
+MIDV-367,https://zgetu-ouba.mushroomtrack.com/hls/Q8Q-ZCM5HplOjDa6iq6tkA/1689475592/33000/33105/33105.m3u8
+SSIS-716,https://zgoa-lomon.mushroomtrack.com/hls/fuyCBrxQC-uFvR6XBXgvQA/1689475329/33000/33123/33123.m3u8
+STARS-814,https://zfer-eta.mushroomtrack.com/hls/cYgpwznEBFlqiB0y4369xQ/1689475477/32000/32913/32913.m3u8
+JUFE-450,https://zfeda-comba.mushroomtrack.com/hls/w01tX2NFL-2pu39ZlqZwdg/1689475622/32000/32807/32807.m3u8
+SSIS-683,https://zfoec-want.mushroomtrack.com/hls/XjVwxI0Ban_wWEeKusNABQ/1689475491/32000/32504/32504.m3u8
