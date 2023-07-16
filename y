@@ -172,6 +172,3 @@ SSIS-193,https://invest-going.mushroomtrack.com/hls/OCUoYSUPJ08aEPptYjWPog/16894
 SSIS-312,https://masno-terer.mushroomtrack.com/hls/aKYwY_QjwbJKffrPTlFqHw/1689485344/22000/22055/22055.m3u8
 SSIS-369,https://mongi-doma.mushroomtrack.com/hls/IjUOW5rb94Qewv19a1_A_A/1689485309/23000/23334/23334.m3u8
 SSIS-038,https://masmao-toera.mushroomtrack.com/hls/LhzV83pbndXr-9Emm4nhKg/1689485713/15000/15092/15092.m3u8
-GTJ-122,https://lmgywxwzeiub.sh-content.com/hls2/01/00941/k08j5lg3vdr8_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=x8DZZD5Y8gbZngNpNv6vrNHbNE8zkkTaDSnS2tYcU8I&s=1689475608&e=129600&f=4707659&srv=sto001&i=0.0&sp=500&p1=sto001&p2=sto001&asn=31898
-GTJ-123,https://lmgywxwzeiub.sh-content.com/hls2/01/00941/k08j5lg3vdr8_,n,h,x,.urlset/index-f3-v1-a1.m3u8
-GTJ-125,https://lmgywxwzeiub.sh-content.com/hls2/01/00941/k08j5lg3vdr8_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=x8DZZD5Y8gbZngNpNv6vrNHbNE8zkkTaDSnS2tYcU8I&s=1689475608&e=129600&f=4707659&srv=sto001&i=0.0&sp=500&p1=sto001&p2=sto001&asn=31898.m3u8
