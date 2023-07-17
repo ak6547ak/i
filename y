@@ -1,6 +1,6 @@
 日本Y,#genre#
-MIDV-398,https://asutin-billion.mushroomtrack.com/hls/RsoqEJDf_g35pvZJax48LQ/1689486601/34000/34190/34190.m3u8#https://asf-doc.mushroomtrack.com/hls/7RrkR0hzLFs79ggG61ifHQ/1689473978/34000/34190/34190.m3u8#https://asutin-billion.mushroomtrack.com/hls/f3IPXcYTNss8k38uMAaV4Q/1689561882/34000/34190/34190.m3u8
-SSIS-748,https://astin-cowing.mushroomtrack.com/hls/pEhyzMgUCldYNSReZACRBA/1689486714/33000/33789/33789.m3u8#https://hot-box-gen.mushroomtrack.com/hls/hOGPUA5b7ZCJcUhuwW2RHw/1689474395/33000/33789/33789.m3u8
+MIDV-398,https://asutin-billion.mushroomtrack.com/hls/f3IPXcYTNss8k38uMAaV4Q/1689561882/34000/34190/34190.m3u8
+SSIS-748,https://hot-box-gen.mushroomtrack.com/hls/hOGPUA5b7ZCJcUhuwW2RHw/1689474395/33000/33789/33789.m3u8
 JUFE-448,https://astin-cowing.mushroomtrack.com/hls/ospj8VggY7nlTAH-uEo90Q/1689485933/33000/33378/33378.m3u8#https://astin-cowing.mushroomtrack.com/hls/z4ua45qxkqPetxcMA8ZmCQ/1689474014/33000/33378/33378.m3u8
 MIDV-367,https://zgetu-ouba.mushroomtrack.com/hls/Q8Q-ZCM5HplOjDa6iq6tkA/1689475592/33000/33105/33105.m3u8
 SSIS-716,https://zgoa-lomon.mushroomtrack.com/hls/fuyCBrxQC-uFvR6XBXgvQA/1689475329/33000/33123/33123.m3u8
